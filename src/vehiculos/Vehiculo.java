@@ -8,7 +8,6 @@ public abstract class Vehiculo {
 	
 	
 	public boolean frenar() {
-		return false;
 		
 	}
 	public boolean acelerar() {
